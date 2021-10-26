@@ -11433,3 +11433,14 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.cv-icon {
+  justify-content: center;
+  background-color: #495057;
+  color: #fff !important;
+  font-size: 1rem;
+  margin-right: 1.5rem;
+}
+.cv-icon:hover {
+  background-color: rgba(var(--bs-primary-rgb));;
+}
